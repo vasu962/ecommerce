@@ -2,6 +2,10 @@
 ## [Live](https://ecommerce-nu-three-66.vercel.app/)
 ![Ecommerce Application](https://i.postimg.cc/pLyfyYNx/Screenshot-2024-03-03-110637.png)
 
+![payment](https://i.postimg.cc/zGXCygkF/Screenshot-2024-03-22-230209.png)
+
+![stripe](https://i.postimg.cc/dVwh3cJM/Screenshot-2024-03-22-230237.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
